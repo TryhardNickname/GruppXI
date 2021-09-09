@@ -18,7 +18,6 @@ using Windows.UI.Xaml.Navigation;
 namespace Chinashack2._0
 {
 
-    /// elma123
     /// <summary>
     /// Provides application-specific behavior to supplement the default Application class.
     /// </summary>
