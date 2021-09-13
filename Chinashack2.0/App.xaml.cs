@@ -19,6 +19,7 @@ namespace Chinashack2._0
 {
 
     /// <summary>
+    /// elma
     /// Provides application-specific behavior to supplement the default Application class.
     /// </summary>
     sealed partial class App : Application
